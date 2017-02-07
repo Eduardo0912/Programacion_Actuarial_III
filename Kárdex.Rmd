@@ -1,0 +1,47 @@
+---
+title: "Calificaciones"
+author: "Eduardo Sánchez Baños"
+---
+
+#Primer semestre
+###Otoño 2015
+
+ * Programación Actuarial I 09
+
+ * Introducción a la Profesión Actuarial 10
+
+ * DHPC 09
+
+ * Conceptos de Cálculo 09
+
+ * Matemáticas Básicas 08
+
+ * Problemas de Matemáticas Básicas 08
+
+#Segundo semestre
+###Primavera 2016
+
+ * Teoría del Interés I 08
+
+ * Contabilidad General 10
+
+ * Formación Humana y Social 09
+
+ * Geometría Analítica 08
+
+ * Teoría de Ecuaciones 09
+
+#Tercer semestre
+###Otoño 2016
+
+ * Programación Actuarial II 10
+
+ * Teoría del Interés II 08
+
+ * Microeconomía 09
+
+ * Reg. Acad. y Cient. del Esp. 10
+
+ * Cálculo Diferencial 10
+
+ * Álgebra Lineal 08
